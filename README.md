@@ -4,6 +4,9 @@ Esport Performance Data Analysis and Visualization
 ## Project Overview
 This data analysis project aims to provide insights into G2 Esports' performance in the LEC throughout 2024. By examining game data, I seek to gain a deeper understanding of G2's playstyle, the factors contributing to their competitiveness, and the strengths and weaknesses of their players. Additionally, I hope to foster greater engagement between G2 fans and their favorite team, helping them to better know the players through the lens of data.
 
+## Data Source
+Dataset was obtained in csv file from https://oracleselixir.com/tools/downloads, which is maintained and updated daily by Tim Sevenhuysen.
+
 ## Tools
 - Excel - For data cleaning and wrangling
 - Tableau - For data analysis and visualization
@@ -83,3 +86,6 @@ Heat maps displaying player metrics across all positions. These charts compare G
 Finally, the claim that G2 is the most entertaining League of Legends team is no joke. In 2024, G2 players showcased an impressive diversity, playing a total of 82 unique champions. This wide range not only captivates fans but also creates significant challenges for their opponents.
 G2's roster features players with complementary yet distinctive styles. Each member contributes damage across various champion selections, even Mikyx, granting the team exceptional flexibility in drafts. Their unpredictability can catch opponents off guard, while more consistent players serve as reliable cornerstones for the team.
 I would describe G2 as "fancy" in a way that is both strategic and engaging. This blend of unpredictability and consistency is what sets G2 apart and makes them consistently competitive and entertaining!
+
+## Limitation
+Most data points in the visualization have small sample sizes, which may exaggerate certain trends. For instance, champions played only once can lead to misinterpretation. It’s important to remember that data represents only part of the story; factors such as coaches' and players' experience, intuition, and even the quality of sleep before a game also play crucial roles. Therefore, while data can greatly enhance our understanding of esports, it can equally blind us.
