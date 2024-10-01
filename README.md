@@ -81,9 +81,11 @@ Heat maps displaying player metrics across all positions. These charts compare G
 
      ![image](https://github.com/user-attachments/assets/d6ae29b8-8c06-4ad2-a7e4-06a4e00ea1c2)
 
-7. G2 has a low win rate when facing some champions, such as Nidalee and Gragas. Some of these opponent picked champions are naturally advantageous in lane and picked as a counter, but it is definitely worth investigating the composition and in-game performance of these match-ups. For example, Azir has an average advantage both in terms of cs and xp when facing Hwei across LCS, LEC, and LCK. However, Caps' Azir has a sudden drop in XP at 15 minute when facing Hwei, which was a result of 3 consecutive loss in skirmishes from 10 to 15 minutes periods. From the heat map we can also see that Yone is a super effective champion against Hwei.
+7. G2 has a low win rate when facing some champions, such as Nidalee and Ornn. Some of these opponent picked champions are naturally advantageous in lane and picked as a counter, but it is definitely worth investigating the composition and in-game performance of these match-ups. For example, Azir has an average advantage both in terms of cs and xp when facing Hwei across LCS, LEC, and LCK. However, Caps' Azir has a sudden drop in XP at 15 minute when facing Hwei, which was a result of 3 consecutive loss in skirmishes from 10 to 15 minutes periods. From the heat map we can also see that Yone is a super effective champion against both Hwei and Ornn.
    
     ![image](https://github.com/user-attachments/assets/508cf6b8-e7b7-407e-b35b-e176065baad1)
+   ![image](https://github.com/user-attachments/assets/eaddac09-5d50-475e-8694-3d0d2298d307)
+
    ![image](https://github.com/user-attachments/assets/ccecbb36-5142-41af-9bf1-7b385e7cc160)
 
    
