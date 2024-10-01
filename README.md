@@ -25,7 +25,8 @@ Apply the data source filter to filter out only the LEC regions, since my goal w
 
 ## Data Analysis and Visualization
 
-I created 15 visuals in total to explore G2’s team style and explanation in text to help viewers better understand them.
+I created more than 15 visuals in total to explore G2’s team style and explanation in text to help viewers better understand them.
+I put 10 of them into a dashboard that offers a high-level overview of G2's performance.
 
 Bar charts displaying the most picked champions by G2 in LEC over the year of 2024.
 
@@ -56,9 +57,9 @@ Four banners highlighting key metrics of G2's performance and their standings in
   ![image](https://github.com/user-attachments/assets/ce69f31c-0712-48e3-8678-b02d10e6641c)
 
 
-Heat maps displaying player metrics across all positions. These charts compare G2 players to their counterparts in the same position within the LEC. These graphs are not included in the dashboard but will be explained in the section below.
+Numerous heat maps displaying player metrics across all positions. These charts compare G2 players to their counterparts in the same position within the LEC and display the champions and players effectiveness in different match-ups that offer valuable information in the ban-pick strategies. These graphs are not included in the dashboard but will be explained in the section below.
 
-## Findings/Result
+## Findings/Recommendations
 
 1.   G2 has a strong preference for champions that can initiate fights effectively. This tendency extends even to their ADC picks, with champions like Ashe, Varus, and Kalista, all of whom can significantly influence team fights. These champions offer crucial CC and utility, allowing G2 to engage or disengage strategically. This approach not only enhances their aggressive playstyle but also ensures that they can dictate the pace of the game, making them a formidable opponent on the Rift.
 
@@ -81,7 +82,7 @@ Heat maps displaying player metrics across all positions. These charts compare G
 
      ![image](https://github.com/user-attachments/assets/d6ae29b8-8c06-4ad2-a7e4-06a4e00ea1c2)
 
-7. G2 has a low win rate when facing some champions, such as Nidalee and Ornn. Some of these opponent picked champions are naturally advantageous in lane and picked as a counter, but it is definitely worth investigating the composition and in-game performance of these match-ups. For example, Azir has an average advantage both in terms of cs and xp when facing Hwei across LCS, LEC, and LCK. However, Caps' Azir has a sudden drop in XP at 15 minute when facing Hwei, which was a result of 3 consecutive loss in skirmishes from 10 to 15 minutes periods. From the heat map we can also see that Yone is a super effective champion against both Hwei and Ornn.
+7. G2 has a low win rate when facing some champions, such as Nidalee and Ornn. Some of these opponent picked champions are naturally advantageous in lane and picked as a counter, but it is definitely worth investigating the composition and in-game performance of these match-ups. For example, Azir has an average advantage both in terms of CS and XP when facing Hwei across LCS, LEC, and LCK. However, Caps' Azir has a sudden drop in XP at 15 minute when facing Hwei, which was due to 3 consecutive loss in skirmishes from 10 to 15 minutes periods if we watch the replay. From the heat map we can also see that Yone is a super effective and dominant champion against both Hwei and Ornn.
    
     ![image](https://github.com/user-attachments/assets/508cf6b8-e7b7-407e-b35b-e176065baad1)
    ![image](https://github.com/user-attachments/assets/eaddac09-5d50-475e-8694-3d0d2298d307)
