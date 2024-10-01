@@ -4,6 +4,9 @@ Esport Performance Data Analysis and Visualization
 ## Project Overview
 This data analysis project aims to provide insights into G2 Esports' performance in the LEC throughout 2024. By examining game data, I seek to gain a deeper understanding of G2's playstyle, the factors contributing to their competitiveness, and the strengths and weaknesses of their players. Additionally, I hope to foster greater engagement between G2 fans and their favorite team, helping them to better know the players through the lens of data.
 
+## Link to Project's Dashboard
+https://public.tableau.com/app/profile/tashi.delek/viz/G2_17271748175650/StaticDashboard
+
 ## Data Source
 Dataset was obtained in csv file from https://oracleselixir.com/tools/downloads, which is maintained and updated daily by Tim Sevenhuysen.
 
@@ -78,7 +81,13 @@ Heat maps displaying player metrics across all positions. These charts compare G
 
      ![image](https://github.com/user-attachments/assets/d6ae29b8-8c06-4ad2-a7e4-06a4e00ea1c2)
 
-7. Mikyx may appear underwhelming on the heat map due to his high death count, but this can be attributed to his exceptional ward placements and vision score, both of which rank second in the league. He also boasts the second-highest average assists and the third-highest damage to champions among supports. Surprisingly, he has the highest gold earned among supports in the LEC. However, Mikyx's high average death count may stem from his bold positioning choices. He needs to be particularly mindful of his positioning in the mid to late game, as even a small mistake can lead to his untimely demise. These metrics highlight that Mikyx is not just a player with a flashy playstyle; he contributes significantly to his team's success, making him as intriguing as BrokenBlade. His ability to balance aggression with strategic vision sets him apart as a key asset for G2.
+7. G2 has a low win rate when facing some champions, such as Nidalee and Gragas. Some of these opponent picked champions are naturally advantageous in lane and picked as a counter, but it is definitely worth investigating the composition and in-game performance of these match-ups. For example, Azir has an average advantage both in terms of cs and xp when facing Hwei across LCS, LEC, and LCK. However, Caps' Azir has a sudden drop in XP at 15 minute when facing Hwei, which was a result of 3 consecutive loss in skirmishes from 10 to 15 minutes periods. From the heat map we can also see that Yone is a super effective champion against Hwei.
+   
+    ![image](https://github.com/user-attachments/assets/508cf6b8-e7b7-407e-b35b-e176065baad1)
+   ![image](https://github.com/user-attachments/assets/ccecbb36-5142-41af-9bf1-7b385e7cc160)
+
+   
+9. Mikyx may appear underwhelming on the heat map due to his high death count, but this can be attributed to his exceptional ward placements and vision score, both of which rank second in the league. He also boasts the second-highest average assists and the third-highest damage to champions among supports. Surprisingly, he has the highest gold earned among supports in the LEC. However, Mikyx's high average death count may stem from his bold positioning choices. He needs to be particularly mindful of his positioning in the mid to late game, as even a small mistake can lead to his untimely demise. These metrics highlight that Mikyx is not just a player with a flashy playstyle; he contributes significantly to his team's success, making him as intriguing as BrokenBlade. His ability to balance aggression with strategic vision sets him apart as a key asset for G2.
 
      ![image](https://github.com/user-attachments/assets/730c16e7-c515-4f75-a6c4-e051e218d7a6)
 
@@ -87,5 +96,7 @@ Finally, the claim that G2 is the most entertaining League of Legends team is no
 G2's roster features players with complementary yet distinctive styles. Each member contributes damage across various champion selections, even Mikyx, granting the team exceptional flexibility in drafts. Their unpredictability can catch opponents off guard, while more consistent players serve as reliable cornerstones for the team.
 I would describe G2 as "fancy" in a way that is both strategic and engaging. This blend of unpredictability and consistency is what sets G2 apart and makes them consistently competitive and entertaining!
 
+
+
 ## Limitation
-Most data points in the visualization have small sample sizes, which may exaggerate certain trends. For instance, champions played only once can lead to misinterpretation. It’s important to remember that data represents only part of the story; factors such as coaches' and players' experience, intuition, and even the quality of sleep before a game also play crucial roles. Therefore, while data can greatly enhance our understanding of esports, it can equally blind us.
+Most data points in the visualization have small sample sizes, which may exaggerate certain trends. For instance, champions played only once can lead to misinterpretation. It’s important to remember that data represents only part of the story; factors such as coaches' and players' experience, intuition, and even the quality of sleep before a game also play crucial roles. Therefore, while data can greatly enhance our understanding of esports, it can equally blind us if we are not careful enough.
